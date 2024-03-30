@@ -12,8 +12,8 @@ Les données sont disponibles [ici](https://deft.lisn.upsaclay.fr/)
 
 ## Modèles
 
-Nous avons entrainé les modèles: NaïveBayes, SVM et RandomForest
-Le prétraitement des données et l'utilisation de ses modèles sont dans le notebook dans le dossier ... 
+Nous avons entrainé les modèles: NaïveBayes, SVM et RandomForest.
+Le prétraitement des données et l'utilisation de ses modèles sont dans le notebook dans le dossier **codes**. 
 
-Un rapport sous forme d'un article court dans le style ACL reprenant notre démarche a été fait. 
+Le rapport sous forme d'un article court dans le style ACL reprenant notre démarche se trouve [ici](). 
 
