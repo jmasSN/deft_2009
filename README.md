@@ -6,7 +6,7 @@ La présentation de ce défi et ses résultats sont disponibles dans cet [articl
 ## Corpus 
 
 Le corpus se compose de retranscriptions de débats pour 313 séances parlementaires de 1999 à 2004. 
-Il s'agit d'un corpus parallèle disponible en anglais, français et italien.
+Il s'agit d'un corpus parallèle anglais, français et italien.
 L'entraînement comprend 60% des interventions soit : 19370 interventions par langue et le test 40% soit : 12917 interventions par langue.
 
 Les données, sous format xml, sont disponibles [ici](https://deft.lisn.upsaclay.fr/). 
