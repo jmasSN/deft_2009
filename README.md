@@ -9,7 +9,7 @@ Le corpus se compose de retranscriptions de débats pour 313 séances parlementa
 Il s'agit d'un corpus parallèle anglais, français et italien.
 L'entraînement comprend 60% des interventions soit : 19370 interventions par langue et le test 40% soit : 12917 interventions par langue.
 
-Les données, sous format xml, sont disponibles [ici](https://deft.lisn.upsaclay.fr/). 
+Les données, au format xml, sont disponibles [ici](https://deft.lisn.upsaclay.fr/). 
 
 ## Modèles
 
